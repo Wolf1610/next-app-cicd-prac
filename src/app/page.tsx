@@ -7,6 +7,7 @@ export default function Home() {
         <div className="px-4 py-2 border border-white/10"> 
           <div><h1 className="text-5xl">APP for CI/CD Practice</h1></div>
           <div><button className="px-4 py-2 bg-white/10 text-white">Click me</button></div>
+          <div><button className="px-4 py-2 bg-white/10 text-white">Click me</button></div>
         </div>
       </main>
     </div>
